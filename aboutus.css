@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(46, 45, 45);
+}
+#cool{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+.me{
+    color: white;
+    width: 170px;
+    height: 30px;
+    position: relative;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: Verdana;
+}
+.des{
+    position: relative;
+    margin-left: 10px;
+    color: white;
+    font-family: Arial;
+    width: 95%;
+    height: 200px;
+}
